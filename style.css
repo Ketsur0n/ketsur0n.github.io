@@ -8,8 +8,8 @@ body
   }
 section{
   display: grid;
-  place-items: left;
-  align-content: left;
+  place-items: center;
+  align-content: center;
   min-height: 100vh;
 }
 .hidden{
@@ -22,11 +22,12 @@ section{
   filter: blur(0);
   transition: all 1.5s;
 }
-p{
+p{text-align: left;
   font-family: 'DotGothic16', sans-serif;
   color: azure;
 }
 h2{
+  text-align: left;
   font-family: 'DotGothic16', sans-serif;
   color: azure;
 }
