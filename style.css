@@ -3,7 +3,7 @@ body
  { background-color: black;
     padding: 0;
     margin: 0;
-    
+   text-align: left; 
 
   }
 section{
@@ -22,12 +22,11 @@ section{
   filter: blur(0);
   transition: all 1.5s;
 }
-p{text-align: left;
+p{
   font-family: 'DotGothic16', sans-serif;
   color: azure;
 }
 h2{
-  text-align: left;
   font-family: 'DotGothic16', sans-serif;
   color: azure;
 }
