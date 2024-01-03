@@ -8,8 +8,8 @@ body
   }
 section{
   display: grid;
-  place-items: center;
-  align-content: center;
+  place-items: left;
+  align-content: left;
   min-height: 100vh;
 }
 .hidden{
