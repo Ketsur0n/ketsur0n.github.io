@@ -6,11 +6,11 @@ body
 
   }
 section{
-  text-align: left;
   display: grid;
   place-items: center;
   align-content: center;
   min-height: 100vh;
+  margin: 0;
 }
 .hidden{
   opacity: 0;
@@ -23,10 +23,12 @@ section{
   transition: all 1.5s;
 }
 p{
+  text-align: left;
   font-family: 'DotGothic16', sans-serif;
   color: azure;
 }
 h2{
+  text-align: left;
   font-family: 'DotGothic16', sans-serif;
   color: azure;
 }
