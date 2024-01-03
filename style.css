@@ -1,8 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Rubik+Scribble&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=DotGothic16&display=swap');
 body
  { background-color: black;
-    font-family: sans-serif;
     padding: 0;
     margin: 0;
     
@@ -25,8 +23,10 @@ section{
   transition: all 1.5s;
 }
 p{
+  font-family: 'DotGothic16', sans-serif;
   color: azure;
 }
 h2{
+  font-family: 'DotGothic16', sans-serif;
   color: azure;
 }
